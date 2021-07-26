@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vicinius
-- 👀 I’m interested in learning more about data analytics, data science and contributing to open source projects on these areas
+- 👀 I’m interested in learning more about data analytics, data science and contributing to projects on these areas
 - 🌱 I’m currently learning SQL and Python!
 - 💞️ I’m looking to collaborate on any data-related projects :-)
 - 📫 How to reach me: https://www.linkedin.com/in/vinicius-sodre-quadros/
