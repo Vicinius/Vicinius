@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @Vicinius
-- 👀  I’m interested in learning more about data analytics, data science, data engineering and contributing to projects on these areas
-- 🌱  I’m currently learning machine learning
+- 👋  Hi, I’m @Vicinius, a Data Analyst
+- 👀  I’m interested in data science and data engineering, while also looking foward to contribute on open source projects 
+- 🌱  I’m currently studying **Machine Learning**
 - 💞️  I’m looking to collaborate on any data-related projects :-)
 - 📫  How to reach me: https://www.linkedin.com/in/vinicius-sodre-quadros/ or viniciussquadros@hotmail.com
 
