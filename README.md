@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @Vicinius, a Data Analyst
-- 👀  I’m interested in data science and data engineering, while also looking foward to contribute on open source projects 
+- 👀  I’m interested in data science and data engineering, while also looking foward to contribute on open source projects, mainly Apache Superset
 - 🌱  I’m currently studying **Machine Learning**
 - 💞️  I’m looking to collaborate on any data-related projects :-)
 - 📫  How to reach me: https://www.linkedin.com/in/vinicius-sodre-quadros/ or viniciussquadros@hotmail.com
